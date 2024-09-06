@@ -1,0 +1,8 @@
+body{
+    background-color: red;
+    background-color:#bbff00;
+
+}
+ul li {
+    display: inline; /* привет */
+}
