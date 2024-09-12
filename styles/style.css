@@ -1,8 +1,6 @@
-body{
-    background-color: red;
-    background-color:#bbff00;
+#title2{
+border: 2px solid red;
+width: 500px;
+height: 100vh;
+}
 
-}
-ul li {
-    display: inline; /* привет */
-}
